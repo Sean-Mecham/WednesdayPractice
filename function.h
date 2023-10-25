@@ -4,6 +4,6 @@
 
 using namespace std;
 
-void displayArray();
+void displayArray(int array[], int size);
 
 #endif
