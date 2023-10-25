@@ -7,6 +7,8 @@ int main()
     cout<<"Hello\n";
     void displayArray();
 
+    cout<<"Functions are working great\n"; 
     return 0;
+
 
 }
