@@ -1,0 +1,2 @@
+# WednesdayPractice
+class practice
